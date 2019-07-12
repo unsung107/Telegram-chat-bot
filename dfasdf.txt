@@ -1,0 +1,18 @@
+Slave_Dovi
+Slave_Dovi_bot
+
+Use this token to access the HTTP API:
+817490250:AAESbLG9nI7vDTN74LZfu8PRYPorvNfqTlY
+
+https://api.telegram.org/bot817490250:AAESbLG9nI7vDTN74LZfu8PRYPorvNfqTlY/getMe
+https://api.telegram.org/bot817490250:AAESbLG9nI7vDTN74LZfu8PRYPorvNfqTlY/getUpdates
+
+
+
+내 id : 734437952
+bot id : 817490250
+
+.env (env = environment 환경변수)
+pip install python-decouple
+
+
